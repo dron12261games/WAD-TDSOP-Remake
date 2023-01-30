@@ -1,4 +1,4 @@
-# WAD-TDSOP-Remake
+# The Dark Side of Phobos REMAKE [1+ level, GZDOOM-UDMF, DOOM 2]
 
 # STATUS: ⛔ABANDONED/FROZEN
 
