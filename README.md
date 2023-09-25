@@ -1,6 +1,6 @@
 # The Dark Side of Phobos REMAKE [1+ level, GZDOOM-UDMF, DOOM 2]
 
-# STATUS: ⛔ABANDONED/FROZEN
+# STATUS: ⛔CANCELLED
 
 ## Resources in use:
 - [OTEX_1.1.wad](https://www.doomworld.com/idgames/graphics/otex_1_1)
